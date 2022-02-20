@@ -7,7 +7,7 @@
 1. When the user clicks the button, two colors must be randomly selected in the `colors` array.
 2. Change the style of the body tag using linear-gradient using two randomly selected colors. 
 
-### Output
+### Demo
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/39400030/154517297-8ba9a4dd-2fa3-444d-8b52-d1eb28c28818.gif)
 
 ---
